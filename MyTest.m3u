@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",翡翠台4K
+https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-name="无线新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVB星河" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",TVB星河 http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-name="TVB Plus" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",TVB娱乐新闻台
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="TVB生活台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",TVB生活台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+#EXTINF:-1 tvg-name="TVB1" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",TVB1
+https://6.cdn.loc.cc/163189.php?id=tvb1
+#EXTINF:-1 tvg-name="翡翠剧集台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",翡翠剧集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-name="翡翠台(字幕)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",翡翠台(字幕)
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="明珠台(字幕)" tvg-id="" tvg-country="香港" tvg-language="英語" tvg-logo="" group-title="Hong Kong",明珠台(字幕)
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-name="千禧经典台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",千禧经典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="明珠台" tvg-id="" tvg-country="香港" tvg-language="英語" tvg-logo="" group-title="Hong Kong",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-name="TVB J1" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 tvg-name="TVB Plus" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-name="ViuTV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVSix" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 tvg-name="HOY TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="HOY TV2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",HOY TV2
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",NOW新闻台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="RTHK31" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="美亚电影台" tvg-id="" tvg-country="香港" tvg-language="国語" tvg-logo="" group-title="Hong Kong",美亚电影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映频道" tvg-id="" tvg-country="香港" tvg-language="国語" tvg-logo="" group-title="Hong Kong",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-id="" tvg-country="香港" tvg-language="国語" tvg-logo="" group-title="Hong Kong",天映经典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="凤凰中文" tvg-id="" tvg-country="香港" tvg-language="国語" tvg-logo="" group-title="Hong Kong",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-id="" tvg-country="香港" tvg-language="国語" tvg-logo="" group-title="Hong Kong",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰香港" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="Hong Kong",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="八度空间" tvg-id="" tvg-country="香港" tvg-language="国語" tvg-logo="" group-title="Hong Kong",八度空间
+http://php.jdshipin.com:8880/smt.php?id=TV8
+#EXTINF:-1 tvg-name="Astro AOD" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 tvg-name="Astro QJ" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro欢喜台" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",Astro欢喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+#EXTINF:-1 tvg-name="爱奇艺" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",爱奇艺
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 tvg-name="CCTV1港澳版" tvg-id="" tvg-country="香港" tvg-language="国語" tvg-logo="" group-title="Hong Kong",CCTV1港澳版
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-name="CH5" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",CH5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-name="CH8" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",CH8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-name="CHU" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",CHU
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 tvg-name="龙华电影" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="龙华经典" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-name="龙华卡通" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-name="龙华日韩" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 tvg-name="龙华洋片" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="Singapore",龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",CCTV13
+https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",深圳卫视4K
+https://cdn3.163189.xyz/163189/szws4k
+#EXTINF:-1 tvg-name="深圳财经生活" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",深圳财经生活
+https://cdn3.163189.xyz/163189/szcjsh
+#EXTINF:-1 tvg-name="第一财经" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",第一财经
+https://cdn3.163189.xyz/163189/dycj
+#EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",五星体育
+https://cdn3.163189.xyz/163189/wxty
