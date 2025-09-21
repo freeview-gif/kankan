@@ -22,14 +22,6 @@ http://tvtj1.jxwltx.com:8003/live3001.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",广州综合
 http://tvtj1.jxwltx.com:8003/live3044.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",广州新闻
-http://tvtj1.jxwltx.com:8003/live2958.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="JULI",翡翠台
-https://php.946985.xyz/iptv/jacktv.php?id=a01ugr
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="JULI",翡翠台(广电)
-https://php.946985.xyz/iptv/jacktv.php?id=1ntvv4
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="JULI",翡翠台4K
-https://php.946985.xyz/iptv/jacktv.php?id=q3o3qy
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="JULI",无线新闻台
 #EXTINF:-1 tvg-name="CCTV-1综合" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",CCTV-1综合
 http://tvtj.jxwltx.com:8003/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV-2财经" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="" group-title="China",CCTV-2财经
