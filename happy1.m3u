@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="快樂花園頻道",惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://logo.catvod.com/潘朵啦.png" group-title="快樂花園頻道",潘朵啦
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://logo.catvod.com/彩虹.png" group-title="快樂花園頻道",彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 tvg-name="松1" tvg-logo="https://logo.catvod.com/松1.png" group-title="快樂花園頻道",松1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-name="松2" tvg-logo="https://logo.catvod.com/松2.png" group-title="快樂花園頻道",松2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-name="松3" tvg-logo="https://logo.catvod.com/松3.png" group-title="快樂花園頻道",松3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
