@@ -165,7 +165,7 @@ https://fl25.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 https://fl25.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1  tvg-name="ABC NY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true" group-title="USA" radio="false",ABC NY
 https://fl25.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1  tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS2.png" group-title="USA",CBSNY USA
+#EXTINF:-1  tvg-name="CBSNY USA" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS2.png" group-title="USA",CBSNY USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium767%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 #EXTINF:-1  tvg-name="Cheddar Business" tvg-id="Cheddar.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cheddar-hz-us.png?raw=true" group-title="USA" radio="false",Cheddar Business
 https://fl25.moveonjoy.com/CHEDDAR_BUSINESS/index.m3u8
