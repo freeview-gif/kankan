@@ -108,6 +108,8 @@ https://cdn3.163189.xyz/163189/wxty
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40740.ts
 #EXTINF:-1  tvg-name="CP24" tvg-id="Cable.Pulse.24.(CP24).HD.ca2" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="Canada" radio="false",CP24
 https://a1xs.vip/610001
+#EXTINF:-1  tvg-name="CityNews" tvg-id="CityNews.Toronto" tvg-logo="" group-title="Canada" radio="false",CityNews
+https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m3u8
 #EXTINF:-1 tvg-id="bnn.bloomberg.ca" tvg-logo="https://media.starlite.best/bnn.bloomberg.ca.png" group-title="Canada",BNN Bloomberg
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40768.ts
 #EXTINF:-1 tvg-id="CBC.News.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png" group-title="Canada",CBC News Network
@@ -134,6 +136,7 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
 http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 #EXTINF:-1 tvg-logo="https://www.cclmportal.ca/sites/default/files/images/2023-07/the_weather_network_the_weather_network_s_summer_2020_forecast.jpg" group-title="Canada",Weather Network
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40658.ts
+
 
 
 
