@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:4
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="https://citynewsregional.akamaized.net/hls/live/1017963/Regional_Live_6/5.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=1280x720,AUDIO="audio"
+https://citynewsregional.akamaized.net/hls/live/1017963/Regional_Live_6/Video-2Mbps.m3u8
