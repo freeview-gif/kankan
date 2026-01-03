@@ -5,7 +5,7 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠台4K
 https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-name="无线新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Hong Kong",无线新闻
-https://mgev.188766.xyz/?migutoken=372fd2a4bd32da6e2f897da857f0c57e&id=hk_fct4k&type=dy
+https://mgev.188766.xyz/?migutoken=567ef9a7270fd223bee5365ea7d53b42&id=hk_wxxw&type=dy
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-name="TVB星河" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="Hong Kong",TVB星河 http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -136,6 +136,7 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
 http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 #EXTINF:-1 tvg-logo="https://www.cclmportal.ca/sites/default/files/images/2023-07/the_weather_network_the_weather_network_s_summer_2020_forecast.jpg" group-title="Canada",Weather Network
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40658.ts
+
 
 
 
