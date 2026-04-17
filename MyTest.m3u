@@ -104,38 +104,10 @@ https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-country="中国" tvg-language="国語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="China",五星体育
 https://cdn3.163189.xyz/163189/wxty
 
-#EXTINF:-1 tvg-id="CP24.(CablePulse.24).ca" tvg-logo="https://media.starlite.best/cp24.cablepulse.24.ca.png" group-title="Canada",CP24
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40740.ts
-#EXTINF:-1  tvg-name="CP24" tvg-id="Cable.Pulse.24.(CP24).HD.ca2" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="Canada" radio="false",CP24
-https://a1xs.vip/610001
+
 #EXTINF:-1  tvg-name="CityNews" tvg-id="CityNews.Toronto" tvg-logo="https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/CityNews_24_7.png" group-title="Canada" radio="false",CityNews Toronto
 https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m3u8
-#EXTINF:-1 tvg-id="bnn.bloomberg.ca" tvg-logo="https://media.starlite.best/bnn.bloomberg.ca.png" group-title="Canada",BNN Bloomberg
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40768.ts
-#EXTINF:-1 tvg-id="CBC.News.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png" group-title="Canada",CBC News Network
-http://38.143.48.212:9981/stream/channelid/1944859004?profile=pass
-#EXTINF:-1 tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png" group-title="Canada",CTV Comedy
-http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
-#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="Canada",CTV News
-http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
-#EXTINF:-1 tvg-id="CTV.Sci-Fi.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png" group-title="Canada",CTV Sci Fi
-http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
-#EXTINF:-1 tvg-id="Fairchild.TV.ca" tvg-logo="https://i.ibb.co/j1mXv3z/schedule-logo1.png" group-title="Canada",Fairchild TV 1
-http://user.scalecdn.co:8080/live/26725074/92867131/505941.ts
-#EXTINF:-1 tvg-id="Fairchild.TV.2.ca" tvg-logo="https://i.ibb.co/pByRhL7N/eWfNXvf.png" group-title="Canada",Fairchild TV 2
-http://user.scalecdn.co:8080/live/26725074/92867131/505940.ts
-#EXTINF:-1 tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png" group-title="Canada",FX
-http://38.143.48.212:9981/stream/channelid/1924145856?profile=pass
-#EXTINF:-1 tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png" group-title="Canada",FX Canada
-http://38.143.48.212:9981/stream/channelid/1924145856?profile=pass
-#EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png" group-title="Canada",HBO
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
-#EXTINF:-1 tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png" group-title="Canada",HBO 2
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
-#EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title=" Canada",HGTV
-http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
-#EXTINF:-1 tvg-logo="https://www.cclmportal.ca/sites/default/files/images/2023-07/the_weather_network_the_weather_network_s_summer_2020_forecast.jpg" group-title="Canada",Weather Network
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40658.ts
+
 
 
 
