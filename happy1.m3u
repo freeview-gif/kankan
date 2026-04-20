@@ -27,3 +27,35 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 tvg-name="松3" tvg-logo="https://logo.catvod.com/松3.png" group-title="快樂花園頻道",松3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+#EXTINF:-1 group-title="Hong Kong",美亚电影
+https://test.946985.filegear-sg.me/proxy/c1ef89d2aa5924f0
+
+#EXTINF:-1  tvg-name="CityNews" tvg-id="CityNews.Toronto" tvg-logo="https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/CityNews_24_7.png" group-title="Canada" radio="false",CityNews Toronto
+https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg" group-title="Canada",CBC News Network
+https://t.freetv.fun/live/cbc-news-network.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/03/10/large/20220310182519775139_27.png" group-title="USA",CNBC
+https://t.freetv.fun/live/cnbc-2.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="USA",CNBC亚洲
+https://t.freetv.fun/live/cnbc-asia.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131033303103875_40.png" group-title="USA",Fox Business Network
+https://t.freetv.fun/live/fox-business-network.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="USA",Fox Business Network (720p) [Not 24/7]
+https://tvpass.org/live/FoxBusiness/hd
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="USA",Cinemax
+https://t.freetv.fun/live/cinemax-z.ts
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229001635260719_33.png" group-title="USA",FX
+https://t.freetv.fun/live/fx.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007153647629307_20.png" group-title="USA",HGTV
+https://t.freetv.fun/live/hgtv-z.ts
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="USA",ROCK Action
+https://t.freetv.fun/live/rock-action-z.ts
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/15/large/20240715155016051510_82.png" group-title="USA",STARZ CINEMA
+https://t.freetv.fun/live/starz-cinema-28.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/28/20140528140717612028_25.jpg" group-title="USA",Movie Sphere by Lionsgate
+https://t.freetv.fun/live/the-movies.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="USA",Mytime Movie Network
+https://t.freetv.fun/live/mytime-movie-network-2.m3u8
+
+
