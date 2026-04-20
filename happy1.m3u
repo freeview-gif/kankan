@@ -15,6 +15,9 @@ http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-name="HOY TV2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Hong Kong",HOY TV2
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-name="美亚电影台" tvg-id="" tvg-country="香港" tvg-language="粤語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="Hong Kong",美亚电影
+https://test.946985.filegear-sg.me/proxy/c1ef89d2aa5924f0
+
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="快樂花園頻道",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://logo.catvod.com/潘朵啦.png" group-title="快樂花園頻道",潘朵啦
@@ -28,13 +31,11 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 tvg-name="松3" tvg-logo="https://logo.catvod.com/松3.png" group-title="快樂花園頻道",松3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
-#EXTINF:-1 group-title="Hong Kong",美亚电影
-https://test.946985.filegear-sg.me/proxy/c1ef89d2aa5924f0
-
 #EXTINF:-1  tvg-name="CityNews" tvg-id="CityNews.Toronto" tvg-logo="https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/CityNews_24_7.png" group-title="Canada" radio="false",CityNews Toronto
 https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg" group-title="Canada",CBC News Network
 https://t.freetv.fun/live/cbc-news-network.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/03/10/large/20220310182519775139_27.png" group-title="USA",CNBC
 https://t.freetv.fun/live/cnbc-2.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="USA",CNBC亚洲
