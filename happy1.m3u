@@ -79,6 +79,55 @@ https://t.freetv.fun/live/al-jazeera-english.m3u8
 https://t.freetv.fun/live/amcdian-ying.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/hanguodianying.jpg" group-title="Korea",K-Movie
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News10
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904160018056594_85.png" group-title="News",Al Jazeera
+https://t.freetv.fun/live/al-jazeera-3.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613215356459079_10.png" group-title="News",BBC News
+https://t.freetv.fun/live/bbc-news-4.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060606937621_37.png" group-title="News",Bloomberg
+https://t.freetv.fun/live/bloomberg-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg亚洲
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News
+https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921003134675689_79.png" group-title="News",CBS News
+https://jmp2.uk/plu-6231e909bc960f00075d8e7c.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",CNA
+https://t.freetv.fun/live/cna-2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="News",CNBC
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="News",CNBC亚洲
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-4
+https://t.freetv.fun/live/cnn-4.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-1
+https://t.freetv.fun/live/cnn-1.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Vancouver
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519055858083746_84.png" group-title="News",Euronews
+https://t.freetv.fun/live/euronews-english.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="News",Fox Business Network
+https://tvpass.org/live/FoxBusiness/hd
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax
+https://t.freetv.fun/live/newsmax.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax 2
+https://t.freetv.fun/live/newsmax-2-2.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/18/20160518053416189910_56.png" group-title="News",Newsy
+https://t.freetv.fun/live/newsy-1.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="News",NHK World
+https://t.freetv.fun/live/nhk-world.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="News",Global News
+https://t.freetv.fun/live/global-news-3.m3u8
+
+
+#EXTINF:-1 group-title="待匹配未分组",TVB翡翠台
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 https://t.freetv.fun/live/han-guo-dian-ying-1.m3u8
 
 
