@@ -1,9 +1,11 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠台(SMT)
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠台4K
 https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-name="无线新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Hong Kong",无线新闻
+#EXTINF:-1 tvg-name="无线新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Hong Kong",无线新闻(SMT)
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="Hong Kong",NOW新闻台
 https://cdn.163189.xyz/163189/now
@@ -18,18 +20,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-name="美亚电影台" tvg-id="" tvg-country="香港" tvg-language="粤語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="Hong Kong",美亚电影
 https://test.946985.filegear-sg.me/proxy/c1ef89d2aa5924f0
 
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="快樂花園頻道",惊艳
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://logo.catvod.com/潘朵啦.png" group-title="快樂花園頻道",潘朵啦
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://logo.catvod.com/彩虹.png" group-title="快樂花園頻道",彩虹
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 tvg-name="松1" tvg-logo="https://logo.catvod.com/松1.png" group-title="快樂花園頻道",松1
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="松2" tvg-logo="https://logo.catvod.com/松2.png" group-title="快樂花園頻道",松2
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-name="松3" tvg-logo="https://logo.catvod.com/松3.png" group-title="快樂花園頻道",松3
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
 #EXTINF:-1  tvg-name="CityNews" tvg-id="CityNews.Toronto" tvg-logo="https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/CityNews_24_7.png" group-title="Canada" radio="false",CityNews Toronto
 https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m3u8
@@ -127,8 +117,16 @@ https://t.freetv.fun/live/nhk-world.m3u8
 https://t.freetv.fun/live/global-news-3.m3u8
 
 
-#EXTINF:-1 group-title="待匹配未分组",TVB翡翠台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-
-
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="快樂花園頻道",惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://logo.catvod.com/潘朵啦.png" group-title="快樂花園頻道",潘朵啦
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://logo.catvod.com/彩虹.png" group-title="快樂花園頻道",彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 tvg-name="松1" tvg-logo="https://logo.catvod.com/松1.png" group-title="快樂花園頻道",松1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-name="松2" tvg-logo="https://logo.catvod.com/松2.png" group-title="快樂花園頻道",松2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-name="松3" tvg-logo="https://logo.catvod.com/松3.png" group-title="快樂花園頻道",松3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
