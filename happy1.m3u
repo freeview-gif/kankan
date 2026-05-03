@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠台4K
 https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-name="无线新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Hong Kong",无线新闻
@@ -79,6 +79,7 @@ https://t.freetv.fun/live/al-jazeera-english.m3u8
 https://t.freetv.fun/live/amcdian-ying.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/hanguodianying.jpg" group-title="Korea",K-Movie
+https://t.freetv.fun/live/han-guo-dian-ying-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News10
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
@@ -128,6 +129,6 @@ https://t.freetv.fun/live/global-news-3.m3u8
 
 #EXTINF:-1 group-title="待匹配未分组",TVB翡翠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-https://t.freetv.fun/live/han-guo-dian-ying-1.m3u8
+
 
 
