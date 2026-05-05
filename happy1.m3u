@@ -35,6 +35,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-name="美亚电影台" tvg-id="" tvg-country="香港" tvg-language="粤語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="Hong Kong",美亚电影
 https://iptv.707626.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
+#EXTINF:-1 tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="Hong Kong",Bread TV 面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 tvg-name="CH5" tvg-id="" tvg-country="新加坡" tvg-language="国語" tvg-logo="" group-title="星马",CH5
 http://cdn6.163189.xyz/163189/ch5
@@ -142,7 +144,22 @@ https://t.freetv.fun/live/starz-cinema-28.m3u8
 https://t.freetv.fun/live/the-movies.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="USA",Mytime Movie Network
 https://t.freetv.fun/live/mytime-movie-network-2.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="USA",AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="USA",AMC Reality
+https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjpCtGj.png" group-title="USA",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0utwZ63.png" group-title="USA",AWE Encore
+https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhxtMUQ.png" group-title="USA",AWE International
+https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
+#EXTINF:-1 group-title="USA",Modern Marvels (720p)
+https://e5fd8762.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="USA",NTD TV Canada
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="USA",VOA美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904160018056594_85.png" group-title="International",Al Jazeera English
 https://t.freetv.fun/live/al-jazeera-english.m3u8
@@ -151,6 +168,8 @@ https://t.freetv.fun/live/amcdian-ying.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/hanguodianying.jpg" group-title="Korea",K-Movie
 https://t.freetv.fun/live/han-guo-dian-ying-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Korea",NEW KPOP
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News10
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
@@ -196,6 +215,10 @@ https://t.freetv.fun/live/newsy-1.m3u8
 https://t.freetv.fun/live/nhk-world.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="News",Global News
 https://t.freetv.fun/live/global-news-3.m3u8
+#EXTINF:-1 group-title="News",Breaking News by LeadStory
+https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="Movie",Now星影台
 https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
@@ -227,6 +250,15 @@ https://t.freetv.fun/live/starz-cinema-vt.m3u8
 https://t.freetv.fun/live/amcdian-ying.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="Movie",AMC电影
 https://stream1.freetv.fun/f78ff1e484b79f13f26a2863929a81959551bbce10c86a293620ec8f19238480.ctv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movie",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 group-title="Movie",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Movie",Universal Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Movie",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/" group-title="Movie",Comedy Movies - rakuten tv uk
 https://t.freetv.fun/live/comedy-movies-rakuten-tv-uk.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/08/02/large/20170802211714763042_23.jpg" group-title="Movie",My Cinema Europe
@@ -245,8 +277,20 @@ https://t.freetv.fun/live/universal-monsters-2.m3u8
 https://t.freetv.fun/live/universal-movies.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/" group-title="Movie",Universal Western
 https://t.freetv.fun/live/universal-western.m3u8
-
-
+#EXTINF:-1 group-title="Movie",Action Hollywood Movies (1080p)
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3BJQiHP.png" group-title="Movie",Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere (1080p)
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere AU (1080p)
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere by Lionsgate
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
+#EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Movie",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="快樂花園頻道",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
