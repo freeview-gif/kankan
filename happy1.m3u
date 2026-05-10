@@ -126,7 +126,7 @@ https://live.ntdtv.com/mllive860/playlist.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/hanguodianying.jpg" group-title="Korea",K-Movie
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/New_KMovies_logo.png" group-title="Korea",K-Movie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Korea",NEW KPOP
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
@@ -163,7 +163,7 @@ https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 https://t.freetv.fun/live/cnn-1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-4
 https://t.freetv.fun/live/cnn-4.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519055858083746_84.png" group-title="News",Euronews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Euronews_2022.png" group-title="News",Euronews
 https://t.freetv.fun/live/euronews-english.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
 https://tvpass.org/live/FoxNewsChannel/hd
@@ -173,11 +173,11 @@ https://tvpass.org/live/FoxBusiness/hd
 https://t.freetv.fun/live/newsmax.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax 2
 https://t.freetv.fun/live/newsmax-2-2.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/18/20160518053416189910_56.png" group-title="News",Newsy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Scripps_News_2023.png" group-title="News",Newsy
 https://t.freetv.fun/live/newsy-1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="News",NHK World
 https://t.freetv.fun/live/nhk-world.m3u8
-#EXTINF:-1 group-title="News",Breaking News by LeadStory
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Leadstory_logo.png" group-title="News",Breaking News by LeadStory
 https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904160018056594_85.png" group-title="News",Al Jazeera
 https://t.freetv.fun/live/al-jazeera-3.m3u8
@@ -187,7 +187,7 @@ https://t.freetv.fun/live/al-jazeera-3.m3u8
 https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
 #EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="Movie",Now爆谷台
 https://iptv.707626.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="Movie",美亞電影台
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Meiya_logo.png" group-title="Movie",美亞電影台
 https://iptv.707626.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="Movie",CHC动作电影
 https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
