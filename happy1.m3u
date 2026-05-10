@@ -57,8 +57,6 @@ https://t.freetv.fun/live/cctv-2-2.m3u8
 https://t.freetv.fun/live/cctv-3hd-1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001917639668_91.png" group-title="China",CCTV4国际
 https://t.freetv.fun/live/cctv-4-2.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055335647139_92.png" group-title="China",CCTV4美洲
-https://stream1.freetv.fun/42076cf31ff4aa94aac8fe8c9c0637340d1774f8c14ad89a4c2020335dff968c.ctv
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="China",CCTV5体育
 https://t.freetv.fun/live/cctv-5hd-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV5+.png" group-title="China",CCTV5+体育
