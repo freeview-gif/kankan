@@ -51,7 +51,7 @@ https://t.freetv.fun/live/yan-dong-zhu-jiang-13.m3u8
 https://t.freetv.fun/live/yan-zhou-xin-wen-6.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" group-title="China",CCTV1
 https://t.freetv.fun/live/cctv-1-2.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/1_124.jpg" group-title="China",CCTV2财经
+#EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV2.png" group-title="China",CCTV2财经
 https://t.freetv.fun/live/cctv-2hd-3.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="China",CCTV3综艺
 https://t.freetv.fun/live/cctv-3hd-1.m3u8
@@ -61,7 +61,7 @@ https://t.freetv.fun/live/cctv-4hd-3.m3u8
 https://stream1.freetv.fun/42076cf31ff4aa94aac8fe8c9c0637340d1774f8c14ad89a4c2020335dff968c.ctv
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="China",CCTV5体育
 https://t.freetv.fun/live/cctv-5hd-1.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/09/20170309022754069464_75.jpg" group-title="China",CCTV5+体育
+#EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV5+.png" group-title="China",CCTV5+体育
 https://t.freetv.fun/live/cctv-5-plus.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001735955364_69.png" group-title="China",CCTV6电影
 https://t.freetv.fun/live/cctv-6-1.m3u8
@@ -158,9 +158,9 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://jmp2.uk/plu-6231e909bc960f00075d8e7c.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",CNA
 https://t.freetv.fun/live/cna-2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="News",CNBC
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="News",CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="News",CNBC亚洲
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="News",CNBC亚洲
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-1
 https://t.freetv.fun/live/cnn-1.m3u8
