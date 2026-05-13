@@ -54,7 +54,7 @@ https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c3
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135410645686_37.png" group-title="China",广州新闻
 https://t.freetv.fun/live/yan-zhou-xin-wen-6.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" group-title="China",CCTV1
-https://t.freetv.fun/live/cctv-1-2.m3u8
+http://198.204.228.26/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV2.png" group-title="China",CCTV2财经
 https://t.freetv.fun/live/cctv-2-2.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="China",CCTV3综艺
