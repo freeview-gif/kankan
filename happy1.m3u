@@ -30,16 +30,16 @@ https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/109px-Now_Live_News_logo.svg.png" group-title="Hong Kong",Now直播台
 https://iptv.707626.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="Hong Kong",ViuTV
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="ViuTVSix" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="Hong Kong",ViuTVSix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 tvg-name="HOY TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Hong Kong",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-name="HOY TV2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Hong Kong",HOY TV2
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 tvg-name="HOY TV2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Hong Kong",HOY资讯台
+#EXTINF:-1 tvg-name="HOY78 资讯台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Hong Kong",HOY78 资讯台
 https://cdn.163189.xyz/163189/hoy78
-#EXTINF:-1 tvg-name="HOY TV2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Hong Kong",HOY国际财经台
+#EXTINF:-1 tvg-name="HOY76 国际财经台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Hong Kong",HOY76 国际财经台
 https://cdn11.163189.xyz/163189/2c86601a7180416e
 
 #EXTINF:-1 tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="Hong Kong",Bread TV 面包台
@@ -69,7 +69,7 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001917639668_91.png" group-title="China",CCTV4国际
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="China",CCTV5体育
-http://74.91.26.218:82/live/cctv5hd.m3u8
+https://t.freetv.fun/live/cctv-5hd-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV5+.png" group-title="China",CCTV5+体育
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001735955364_69.png" group-title="China",CCTV6电影
@@ -93,7 +93,7 @@ http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001529466715_75.png" group-title="China",CCTV15音乐
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="China",CCTV16奥林匹克
-http://74.91.26.218:82/live/cctv16hd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001508671387_16.jpg" group-title="China",CCTV17农业农村
 http://192.151.150.154/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/10/29/large/20241029101351559578_45.png" group-title="China",北京卫视
@@ -140,7 +140,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/CityNews_24_7.png" group-title="News" radio="false",CityNews Toronto
 https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Toronto
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Toronto (Spare)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Vancouver
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
@@ -153,9 +153,9 @@ https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/bbc_news_14062.png" group-title="News",BBC News
-https://t.freetv.fun/live/bbc-news-4.m3u8
+https://t.freetv.fun/live/bbc-2.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060606937621_37.png" group-title="News",Bloomberg
-https://bloomberg.com/media-manifest/streams/us-event.m3u8
+https://t.freetv.fun/live/bloombergtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg亚洲
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921003134675689_79.png" group-title="News",CBS News
@@ -177,10 +177,10 @@ https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="News",Fox Business Network
 https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax
-https://t.freetv.fun/live/newsmax-3.m3u8
+https://t.freetv.fun/live/newsmax.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax 2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Scripps_News_2023.png" group-title="News",Newsy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Scripps_News_2023.png" group-title="News",Scripps News
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="News",NHK World
 https://nhk.lls.pbs.org/index.m3u8
