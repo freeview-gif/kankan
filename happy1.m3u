@@ -53,9 +53,9 @@ http://cdn6.163189.xyz/163189/ch8
 http://cdn6.163189.xyz/163189/chu
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="China",大湾区卫视
-https://t.freetv.fun/live/da-wan-qu-wei-shi-5.m3u8
+https://t.freetv.fun/live/da-wan-qu-wei-shi-16.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png" group-title="China",广东珠江
-https://t.freetv.fun/live/yan-dong-zhu-jiang-13.m3u8
+https://t.freetv.fun/live/yan-dong-zhu-jiang-5.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png" group-title="China",广东珠江（备用）
 https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135410645686_37.png" group-title="China",广州新闻
@@ -107,14 +107,14 @@ http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144236171971_20.jpg" group-title="China",贵州卫视
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png" group-title="China",湖南卫视
-http://59.39.89.130:60901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0
+https://t.freetv.fun/live/hu-nan-wei-shi-4.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="China",江苏卫视
-http://112.27.235.94:8000/hls/32/index.m3u8
+https://t.freetv.fun/live/jiang-su-wei-shi-4.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007153647629307_20.png" group-title="USA",HGTV
-https://t.freetv.fun/live/hgtv-z.ts
+##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007153647629307_20.png" group-title="USA",HGTV
+#https://t.freetv.fun/live/hgtv-z.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="USA",AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="USA",AMC Reality
@@ -135,6 +135,10 @@ https://live.ntdtv.com/mllive860/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/New_KMovies.png" group-title="Korea",K-Movie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Korea",Kpop Mix
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Korea",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Korea",NEW KPOP
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
 
@@ -144,40 +148,42 @@ https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Vancouver
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News
-https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
+##EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News
+#https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="News",Global News
 https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/The-weather-network-logo.png" group-title="News",The Weather Network
-https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/The-weather-network-logo.png" group-title="News",The Weather Network
+#https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/bbc_news_14062.png" group-title="News",BBC News
 https://t.freetv.fun/live/bbc-2.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060606937621_37.png" group-title="News",Bloomberg
-https://t.freetv.fun/live/bloombergtv.m3u8
+https://t.freetv.fun/live/bloomberg-tv-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg亚洲
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921003134675689_79.png" group-title="News",CBS News
-https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
+https://t.freetv.fun/live/cbs-news.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="News",CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="News",CNBC亚洲
-https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="News",CNBC亚洲
+#https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-4
-https://t.freetv.fun/live/cnn-4.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/24/large/20250124234451189254_91.png" group-title="News",CNN Fast
+https://t.freetv.fun/live/cnn-fast-2.m3u8
+##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-4
+#https://t.freetv.fun/live/cnn-4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Euronews_2022.png" group-title="News",Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
-https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="News",Fox Business Network
-https://tvpass.org/live/FoxBusiness/hd
+http://41.205.93.154/FOX-NEWS/index.m3u8
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="News",Fox Business Network
+#https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax
-https://t.freetv.fun/live/newsmax.m3u8
+https://t.freetv.fun/live/newsmax-tv.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax 2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Scripps_News_2023.png" group-title="News",Scripps News
@@ -190,34 +196,34 @@ https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="Movie",Now星影台
-https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
-#EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="Movie",Now爆谷台
-https://iptv.707626.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Meiya_logo.png" group-title="Movie",美亞電影台
-https://smt2.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+##EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="Movie",Now星影台
+#https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
+##EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="Movie",Now爆谷台
+#https://iptv.707626.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
+##EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Meiya_logo.png" group-title="Movie",美亞電影台
+#https://smt2.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="Movie",CHC动作电影
 http://198.204.228.26/live/chcdz.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="Movie",CHC家庭影院
 http://107.150.60.122/live/chcjt.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2026/02/26/large/20260226032425495400_69.jpg" group-title="Movie",CHC影迷电影
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229001635260719_33.png" group-title="Movie",FX
-https://tvpass.org/live/FXEast/hd
+##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229001635260719_33.png" group-title="Movie",FX
+#https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229001635260719_33.png" group-title="Movie",FX Movie
 https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720205301496306_92.png" group-title="Movie",HBO
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/11/large/20240411180058847905_35.png" group-title="Movie",HBO Zone
-https://t.freetv.fun/live/hbo-zone-28.m3u8
+https://t.freetv.fun/live/hbo-zone.m3u8
 ##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610185422140004_63.png" group-title="Movie",HBO
 #https://t.freetv.fun/live/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/06/18/large/20160618150034715461_79.jpg" group-title="Movie",HBO2
-https://t.freetv.fun/live/hbo-2-28.m3u8
+https://t.freetv.fun/live/hbo2.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="Movie",ROCK Action
-https://t.freetv.fun/live/rock-action-z.ts
+https://t.freetv.fun/live/rock-action-5.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png" group-title="Movie",Rock Entertainment
-https://t.freetv.fun/live/rock-entertainment-z.ts
+https://t.freetv.fun/live/rock-entertainment-6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movie",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/15/large/20240715155016051510_82.png" group-title="Movie",STARZ CINEMA
@@ -227,11 +233,11 @@ https://t.freetv.fun/live/amcdian-ying.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="Movie",AMC电影
 https://stream1.freetv.fun/f78ff1e484b79f13f26a2863929a81959551bbce10c86a293620ec8f19238480.ctv
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="Movie",AMC
-https://t.freetv.fun/live/amc-2.m3u8
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/" group-title="Movie",Comedy Movies - rakuten tv uk
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/08/02/large/20170802211714763042_23.jpg" group-title="Movie",My Cinema Europe
-https://t.freetv.fun/live/my-cinema-europe.m3u8
+##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/08/02/large/20170802211714763042_23.jpg" group-title="Movie",My Cinema Europe
+#https://t.freetv.fun/live/my-cinema-europe.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="Movie",Mytime Movie Network
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="Movie",Mytime Movie Network
@@ -242,22 +248,22 @@ https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/" group-title="Movie",Universal Monsters
 https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/6_18.jpg" group-title="Movie",Universal Movies
-https://t.freetv.fun/live/universal-movies.m3u8
+##EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/6_18.jpg" group-title="Movie",Universal Movies
+#https://t.freetv.fun/live/universal-movies.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/" group-title="Movie",Universal Western
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Movie",Action Hollywood Movies (1080p)
 https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3BJQiHP.png" group-title="Movie",Are We There Yet?
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere by Lionsgate
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere AU (1080p)
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere UK (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere by Lionsgate
-https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
+##EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movie",MovieSphere by Lionsgate
+#https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="Movie",Ebony TV by Lionsgate
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Movie",Mr Bean Live Action (1080p)
@@ -294,10 +300,6 @@ https://lbds.us.ci/11602033
 https://lbds.us.ci/21059585
 #EXTINF:-1 group-title="Movie",电影_黑帮片
 https://lbds.us.ci/11336719
-#EXTINF:-1 group-title="Movie",电影刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn
-#EXTINF:-1 group-title="Movie",电影梁家辉
-http://live.metshop.top/huya/11342429?cdn=alicdn
 #EXTINF:-1 tvg-logo="https://www.xn#rgv465a.top/tvlogo/猫和老鼠.png" group-title="Movie",猫和老鼠
 http://cdn.jdshipin.com:8880/huya.php?id=11352879
 
