@@ -300,8 +300,8 @@ https://lbds.us.ci/11602033
 https://lbds.us.ci/21059585
 #EXTINF:-1 group-title="Movie",电影_黑帮片
 https://lbds.us.ci/11336719
-#EXTINF:-1 tvg-logo="https://www.xn#rgv465a.top/tvlogo/猫和老鼠.png" group-title="Movie",猫和老鼠
-http://cdn.jdshipin.com:8880/huya.php?id=11352879
+##EXTINF:-1 tvg-logo="https://www.xn#rgv465a.top/tvlogo/猫和老鼠.png" group-title="Movie",猫和老鼠
+#http://cdn.jdshipin.com:8880/huya.php?id=11352879
 
 
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="快樂花園",惊艳
