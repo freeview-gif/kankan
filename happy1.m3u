@@ -182,6 +182,9 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 http://41.205.93.154/FOX-NEWS/index.m3u8
 ##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="News",Fox Business Network
 #https://tvpass.org/live/FoxBusiness/hd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax
 https://t.freetv.fun/live/newsmax-tv.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",Newsmax 2
@@ -220,6 +223,8 @@ https://t.freetv.fun/live/hbo-zone.m3u8
 #https://t.freetv.fun/live/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/06/18/large/20160618150034715461_79.jpg" group-title="Movie",HBO2
 https://t.freetv.fun/live/hbo2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="Movie",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="Movie",ROCK Action
 https://t.freetv.fun/live/rock-action-5.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png" group-title="Movie",Rock Entertainment
