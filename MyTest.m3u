@@ -148,12 +148,12 @@ https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Vancouver
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-##EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News
-#https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvK9svEF1otkNPgLmDwY7xI/m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="News",Global News
 https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/The-weather-network-logo.png" group-title="News",The Weather Network
-#https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/The-weather-network-logo.png" group-title="News",The Weather Network
+https://jmp2.uk/stvp-CABC23000223U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/bbc_news_14062.png" group-title="News",BBC News
