@@ -60,12 +60,20 @@ http://107.150.60.122/live/gdzja.m3u8
 https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135410645686_37.png" group-title="China",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png" group-title="China",广东体育
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-3.php
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-11.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-7.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-14.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-9.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png" group-title="China",广东体育
 https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png" group-title="China",广东体育
-https://t.freetv.fun/live/yan-dong-ti-yu-2.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png" group-title="China",广东体育
-https://t.freetv.fun/live/yan-dong-ti-yu-8.php
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
+https://t.freetv.fun/live/yan-dong-ti-yu-16.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" group-title="China",CCTV1
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV2.png" group-title="China",CCTV2财经
