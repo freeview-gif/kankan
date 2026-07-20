@@ -61,9 +61,9 @@ https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c3
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135410645686_37.png" group-title="China",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
-https://t.freetv.fun/live/yan-dong-ti-yu-3.php
+https://t.freetv.fun/live/yan-dong-ti-yu-8.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
-https://t.freetv.fun/live/yan-dong-ti-yu-11.m3u8
+https://t.freetv.fun/live/yan-dong-ti-yu-13.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
 https://t.freetv.fun/live/yan-dong-ti-yu-7.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
@@ -75,7 +75,7 @@ https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="China",广东体育
 https://t.freetv.fun/live/yan-dong-ti-yu-16.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" group-title="China",CCTV1
-http://74.91.26.218:82/live/cctv1hd.m3u8
+https://t.freetv.fun/live/cctv-1hd-3.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV2.png" group-title="China",CCTV2财经
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="China",CCTV3综艺
@@ -85,11 +85,11 @@ http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="China",CCTV5体育
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="China",CCTV5体育(备用1）
-https://t.freetv.fun/live/cctv5-3.m3u8
+https://t.freetv.fun/live/cctv-5hd-3.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="China",CCTV5体育(备用2）
-https://t.freetv.fun/live/cctv-5hd-2.m3u8
+https://t.freetv.fun/live/cctv-5hd-1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="China",CCTV5体育(备用3）
-https://t.freetv.fun/live/cctv5hd.m3u8
+http://198.204.228.26/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV5+.png" group-title="China",CCTV5+体育
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001735955364_69.png" group-title="China",CCTV6电影
