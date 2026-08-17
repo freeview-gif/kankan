@@ -26,7 +26,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Hong Kong",无线新闻(SMT)
 https://smt2.1678520.xyz/smt3.2.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="Hong Kong",NOW新闻台
-https://cdn.163189.xyz/163189/now
+https://t.freetv.fun/live/nowxin-wen.ts
 #EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/109px-Now_Live_News_logo.svg.png" group-title="Hong Kong",Now直播台
 https://iptv.707626.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="Hong Kong",ViuTV
