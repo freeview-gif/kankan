@@ -14,7 +14,7 @@ http://cdn6.163189.xyz/163189/fct
 #EXTINF:-1 tvg-name="明珠台(字幕)" tvg-id="" tvg-country="香港" tvg-language="英語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="Hong Kong",明珠台(字幕)
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-name="TVB1" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",TVB1
-https://6.cdn.loc.cc/163189.php?id=tvb1
+https://t.freetv.fun/live/tvb1.m3u8
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠台北美版(TVB J1)
