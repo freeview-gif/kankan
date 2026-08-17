@@ -20,9 +20,9 @@ https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Hong Kong",翡翠台北美版(TVB J1)
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://tvlogo-282.pages.dev/logos/無綫新聞台.png" group-title="Hong Kong",无线新闻台
-https://cdn6.163189.xyz/163189/wxxw
+http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://tvlogo-282.pages.dev/logos/無綫新聞台.png" group-title="Hong Kong",无线新闻台
-https://cdn6.163189.xyz/163189/wxxwt
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Hong Kong",无线新闻(SMT)
 https://smt2.1678520.xyz/smt3.2.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="Hong Kong",NOW新闻台
@@ -177,19 +177,19 @@ https://jmp2.uk/stvp-CABC23000223U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/bbc_news_14062.png" group-title="News",BBC News
-https://t.freetv.fun/live/bbc-2.m3u8
+https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060606937621_37.png" group-title="News",Bloomberg
-https://t.freetv.fun/live/bloomberg-tv-1.m3u8
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg亚洲
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921003134675689_79.png" group-title="News",CBS News
-https://t.freetv.fun/live/cbs-news.m3u8
+https://t.freetv.fun/live/cbs-news-24-7.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="News",CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="News",CNBC亚洲
-#https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png" group-title="News",CNBC亚洲
+http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/24/large/20250124234451189254_91.png" group-title="News",CNN Fast
@@ -249,7 +249,7 @@ https://t.freetv.fun/live/hbo2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="Movie",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="Movie",ROCK Action
-https://t.freetv.fun/live/rock-action-5.m3u8
+http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png" group-title="Movie",Rock Entertainment
 https://t.freetv.fun/live/rock-entertainment-6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movie",Starz
@@ -262,6 +262,8 @@ https://t.freetv.fun/live/amcdian-ying-tai-tv.m3u8
 https://t.freetv.fun/live/amcdian-ying-1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="Movie",AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="Movie",BBC America
+http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/" group-title="Movie",Comedy Movies - rakuten tv uk
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 ##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/08/02/large/20170802211714763042_23.jpg" group-title="Movie",My Cinema Europe
