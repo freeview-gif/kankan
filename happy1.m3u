@@ -204,7 +204,7 @@ https://jmp2.uk/stvp-GBBD8000016N
 https://t.freetv.fun/live/cnn-fast.m3u8
 ##EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN-4
 #https://t.freetv.fun/live/cnn-4.m3u8
-##EXTINF:-1 tvg-logo="https://www.dw.com/imagines/icons/favicon-180x180.png" group-title="News",DW World
+#EXTINF:-1 tvg-logo="https://www.dw.com/imagines/icons/favicon-180x180.png" group-title="News",DW World
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/Euronews_2022.png" group-title="News",Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
