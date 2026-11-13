@@ -346,14 +346,39 @@ https://lbds.us.ci/11336719
 
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="ET",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://logo.catvod.com/潘朵啦.png" group-title="ET",潘朵啦
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://logo.catvod.com/彩虹.png" group-title="ET",彩虹
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="ET",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://logo.catvod.com/潘朵啦.png" group-title="ET",潘朵啦粉红
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://logo.catvod.com/潘朵啦.png" group-title="ET",潘朵啦完美
+http://srteamhls.gotvsports.com:41111/04v9iycrpkoelo1b/index.m3u8
 #EXTINF:-1 tvg-name="松1" tvg-logo="https://logo.catvod.com/松1.png" group-title="ET",松1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 #EXTINF:-1 tvg-name="松2" tvg-logo="https://logo.catvod.com/松2.png" group-title="ET",松2
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 tvg-name="松3" tvg-logo="https://logo.catvod.com/松3.png" group-title="ET",松3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="" group-title="ET",香蕉台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+#EXTINF:-1 tvg-name="乐活频道" tvg-logo="" group-title="ET",乐活频道
+http://srteamhls.gotvsports.com:41111/i0a2mditbdzv0h4e/index.m3u8
+#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="" group-title="ET",彩虹电影
+http://srteamhls.gotvsports.com:41111/w8chslnwkcidbh3r/index.m3u8
+#EXTINF:-1 tvg-name="彩虹R" tvg-logo="" group-title="ET",彩虹R
+http://srteamhls.gotvsports.com:41111/f35jovi7msk6dd4p/index.m3u8
+#EXTINF:-1 tvg-name="彩虹E" tvg-logo="" group-title="ET",彩虹E
+http://srteamhls.gotvsports.com:41111/gk1lhs34k93w0egd/index.m3u8
+#EXTINF:-1 tvg-name="极限电影台" tvg-logo="" group-title="ET",极限电影台
+http://srteamhls.gotvsports.com:41111/s0doso0ydxe3yk2s/index.m3u8
+#EXTINF:-1 tvg-name="HOT" tvg-logo="" group-title="ET",HOT
+http://srteamhls.gotvsports.com:41111/krxh0hci5hfbsq7o/index.m3u8
+#EXTINF:-1 tvg-name="Happy" tvg-logo="" group-title="ET",Happy
+http://srteamhls.gotvsports.com:41111/ynmiv1i5as4k1oue/index.m3u8
+#EXTINF:-1 tvg-name="FLIXKO" tvg-logo="" group-title="ET",FLIXKO
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8jainsbq/index.m3u8
+#EXTINF:-1 tvg-name="IPPA" tvg-logo="" group-title="ET",IPPA
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/v19a2133/index.m3u8
+#EXTINF:-1 tvg-name="麻豆传媒映画" tvg-logo="" group-title="ET",麻豆传媒映画
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/asdm3134/index.m3u8
+
 
