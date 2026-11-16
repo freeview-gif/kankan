@@ -162,9 +162,9 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Korea",NEW KPOP
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/CityNews_24_7.png" group-title="News" radio="false",CityNews Toronto
-https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Toronto Spare
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freeview-gif/TV-Logo/main/CityNews_24_7.png" group-title="News" radio="false",CityNews Toronto
+#https://raw.githubusercontent.com/freeview-gif/kankan/refs/heads/main/Citynews.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Vancouver
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
@@ -344,9 +344,9 @@ https://lbds.us.ci/11336719
 #http://cdn.jdshipin.com:8880/huya.php?id=11352879
 
 
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="ET",惊艳
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="ET",惊艳1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="ET",惊艳
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="ET",惊艳2
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://logo.catvod.com/潘朵啦.png" group-title="ET",潘朵啦粉红
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
